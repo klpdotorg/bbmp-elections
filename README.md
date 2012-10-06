@@ -1,4 +1,4 @@
 bbmp-elections
 ==============
 
-Scraping BBMP Elections website.
+Scraping BBMP Elections website. http://bbmpelections.in/wards
